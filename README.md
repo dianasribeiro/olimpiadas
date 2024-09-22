@@ -1,4 +1,4 @@
-## Projeto: Diretório de Atletas Brasileiros
+## Projeto: Diretório de Atletas Brasileiros - Imersão Dev com Google Gemini
 
 **O que é?**
 
